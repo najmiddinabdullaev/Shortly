@@ -378,12 +378,6 @@ select:-webkit-autofill:focus {
   min-width: 103px;
 }
 
-
-.button {
-}
-
-.button--small {
-}
-
-.button--rectangle {
+.url-shortener__copy-button--copied{
+  background-color: #3a3054;
 }
